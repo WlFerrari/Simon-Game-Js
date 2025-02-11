@@ -6,6 +6,7 @@
 
 ## How to Play 🕹️
 
+https://wlferrari.github.io/Simon-Game-Js/
 1. **Start the Game**:
    - Press any key to start the game.
    - Simon will generate a sequence of colors and sounds.
