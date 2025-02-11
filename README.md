@@ -1,5 +1,3 @@
-Here’s an English version of the `README.md` for your **Simon Game JS** repository on GitHub. This version is professional, clear, and highlights the key aspects of the project, including credit to Angela Bauer for the tutorial.
-
 ---
 
 # Simon Game JS 🎮
