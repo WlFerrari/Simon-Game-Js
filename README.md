@@ -26,7 +26,6 @@
 - **CSS**: Styling and animations.
 - **JavaScript**: Game logic.
 - **jQuery**: DOM manipulation and event handling.
-- **Web Audio API**: Interactive sounds.
 
 ---
 
